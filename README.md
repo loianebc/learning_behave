@@ -3,7 +3,7 @@ My first contact with behave and pure Python.
 A post and a get with some different assertions.
 
 # Install
-Execute the following command to make sure you have pyton installed:
+Execute the following command to make sure you have python installed:
 
 
 ```
