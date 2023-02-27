@@ -1,4 +1,4 @@
-## My first behave project
+# My first behave project
 My first contact with behave and pure Python.
 A post and a get with some different assertions.
 
@@ -7,12 +7,12 @@ Execute the following command to make sure you have pyton installed:
 
 
 ```
-$ python
+$ python --version
 ```
 
 
 
-If you have a version bellow 3.0, download the newest version on: 
+If you have a version bellow 3.11.2, download the newest version on: 
 https://www.python.org/downloads/
 
 Execute the following command to install behave with pip:
@@ -21,7 +21,11 @@ Execute the following command to install behave with pip:
 $ pip install behave
 ```
 
+Execute the following command to install requirements with pip:
 
+```
+$ pip install -r requeriments.txt
+```
 
 
 # Execute
